@@ -1,0 +1,12 @@
+saya mempunyai sebuah mimpi menjadi seorang insinyur ai (Machine learning and def learning),
+saya belajar bahasa pemrograman python,bahasa yang mudah dipelajari dan dipahami,
+juga sangat berpengaruh dan penting dalam pengembangan ai, 
+saya belajar alhamdulillah udah lulus OOP,
+udah mulai masuk ke bagian git-github,
+sampai saat ini saya belajar masih menggunakan HP dan terminal termux dan pydro3, 
+dan otodidak menggunakan ai dan youtube dan buku, 
+saya bertekad dan memiliki ambisi yang kuat untuk menyelesaikan semua itu,
+dari podamental python git-github struktur data dan algoritma,belajar database api djanggo
+-untuk backand baru data analis,semua itu saya lakukan
+-agar memasuki Machine learning kedepannya jadi lebih mudah
+saya pasti bisa
